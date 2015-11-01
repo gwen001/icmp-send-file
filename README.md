@@ -1,2 +1,2 @@
 # icmp-send-file
-Send file with ping
+Send file with ping.
